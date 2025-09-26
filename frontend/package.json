@@ -1,9 +1,8 @@
-
 {
   "name": "pet-adoption-frontend",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://himasisira.github.io/Cicd_project",
+  "homepage": "https://phanindrareddy2006.github.io/testproject-of-tejo",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -25,6 +24,6 @@
     "@vitejs/plugin-react": "^5.0.3",
     "@vitejs/plugin-react-swc": "^4.1.0",
     "gh-pages": "^6.3.0",
-    "vite": "^7.1.6"
-  }
+    "vite": "^7.1.6"
+  }
 }
